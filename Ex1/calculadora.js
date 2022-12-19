@@ -1,9 +1,9 @@
-primeiro = Number(prompt("Insira um numero"))
-segundo = Number(prompt("Insira mais um numero"))
+const primeiro = Number(prompt("Insira um numero"))
+const segundo = Number(prompt("Insira mais um numero"))
 
-soma = primeiro + segundo
-sub = primeiro - segundo
-multi = primeiro * segundo
-div = primeiro / segundo
+const soma = primeiro + segundo
+const sub = primeiro - segundo
+const multi = primeiro * segundo
+const div = primeiro / segundo
 
 alert(`Soma: ${soma}\nSubtracao: ${sub}\nMultiplicacao: ${multi}\nDivisao: ${div}`)
