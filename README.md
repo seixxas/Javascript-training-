@@ -1,0 +1,1 @@
+### Estou refazendo um curso grande de js e vou postar todos os exercicios aqui 👍
