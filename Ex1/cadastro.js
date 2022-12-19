@@ -1,9 +1,9 @@
-nome = prompt("bota teu nome")
-sobrenome = prompt("Seu sobrenome")
-campo = prompt("Campo de estudo?")
-ano = prompt("ano de nascimento")
+const nome = prompt("bota teu nome")
+const sobrenome = prompt("Seu sobrenome")
+const campo = prompt("Campo de estudo?")
+const ano = prompt("ano de nascimento")
 
-nascimento = 2022 - ano
+const nascimento = 2022 - ano
 
 alert(`Nome: ${nome}\nSobrenome: ${sobrenome}\nCampo de estudo: ${campo}\nIdade: ${nascimento}`)
 
